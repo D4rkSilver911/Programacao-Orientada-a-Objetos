@@ -1,0 +1,18 @@
+:1:Gabriel Nunes:1:500:1
+:2:Carlos:2:300:2
+:3:Ana:2:270:4
+:4:Maria:1:250:3
+:5:Miguel T:1:330:1
+:6:Andre:2:200:3
+:7:Joao Rodrigues:1:300:2
+:8:Gabriel Saraiva:2:290:3
+:9:Joao Carlos:1:1000:1
+:10:Carlos Lima:1:1000:1
+:11:Miguel Poco:1:500:2
+:12:Maria Joao:1:500:1
+:13:Carlos Alberto:2:200:3
+:14:Ana:1:300:2
+:15:Tomas:1:200:1
+:16:Paulo:1:350:4
+:17:Gonçalo:1:300:3
+:18:Joao Limeiro:1:340:3

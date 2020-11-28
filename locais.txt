@@ -1,0 +1,119 @@
+:1:5:Coimbra
+:1:Cartola:15:5:10:00:24:00
+:1:Bar AAC:20:3:20:00:04:00
+:4:Universidade de Coimbra:Engenharia Informatica:08:00:20:00
+:2:Jardim da Sereia:0:00:00:00:00::2
+:2:Jardim Botanico:0:00:00:00:00::2
+ 
+:2:3:Guarda
+:1:O Praca:10:5:12:00:3:00
+:1:Dupepe:05:4:9:00:24:00
+:1:Alameda:20:4:9:00:23:00
+ 
+:3:6:Algarve
+:1:Lick:50:5:22:00:06:00
+:1:Bliss:55:5:22:00:06:00
+:1:Seven:60:5:22:30:06:30
+:2:Aquashow:150:09:00:21:00::1:0:false:Escorregas e Montanhas-Russas::1:5
+:2:Zoomarine:200:09:00:21:00::1:50:true:Escorregas e Espetaculos com animais::1:3
+:2:Slidesplash:100:09:00:20:00::1:0:false:Escorregas aquaticos e animacoes::1:4
+
+:4:6:Lisboa
+:3:Oceanario:50:09:00:19:00
+:3:Museu Historia Nacional:70:09:00:19:30
+:4:Universidade de Lisboa:Engenharia da Computacao:00:08:00:20:00
+:4:ISCTE:Engenharia Informatica:00:08:00:18:30
+:4:Universidade Catolica:Engenharia dos Computadores:20:08:30:19:30
+:1:Urban:125:5:22:00:06:30
+
+:5:4:Porto
+:1:Escada:50:3:15:00:04:00
+:4:Universidade do Porto:Engenharia Informatica:00:09:00:19:45
+:3:Torre dos Clerigos:15:08:15:18:45
+:3:Galeria da Biodiversidade:25:09:30:19:15
+
+:6:3:Madeira
+:2:Jardim Botanico:0:00:00:00:00::2
+:2:Camara dos Lobos:0:00:00:00:00::2
+:3:Museu CR7:0:00:00:00:00
+
+:7:5:New York
+:3:Museu Historia Natural:100:08:45:18:45
+:2:Central Park:0:00:00:00:00::2
+:2:Bronx Zoo:80:09:15:18:45::1:35:true:Animacoes e Espetaculos com animais::2
+:1:Hard Rock Cafe:35:5:07:30:23:30
+:1:StarBucks:30:5:07:45:23:15
+
+:8:3:Paris
+:3:Museu do Louvre:5000:08:45:21:45
+:2:DisneyLand:3000:09:00:22:00::1:100:true:Escorregas e Montanhas-Russas::2
+:2:Torre Eiffel:0:00:00:00:00::2
+
+:9:8:Londres
+:1:Hard Rock Cafe:35:5:07:30:23:45
+:2:London Eye:150:10:00:22:00::2
+:3:Science Museum:100:09:00:19:00
+:2:Buckingham Palace:200:09:00:17:00::2
+:2:Big Ben:150:07:30:17:45::2
+:1:Discoteca A:75:5:22:00:07:15
+:1:Discoteca B:100:5:21:45:07:00
+:1:Discoteca C:100:5:21:40:06:45
+
+:10:3:Madrid
+:3:Museu Real Madrid:50:10:00:19:00
+:2:Plaza de Espanha:0:00:00:00:00::2
+:3:Museu do Prado:55:10:00:19:45
+
+:11:3:Barcelona
+:3:Sagrada Familia:65:06:00:22:00
+:3:Museu Picasso:60:08:30:21:30
+:3:Estadio Camp Nou:200:08:15:19:30
+
+:12:5:Las Vegas
+:1:Casino A:150:5:00:00:00:00
+:1:Casino B:200:5:00:00:00:00
+:1:Casino C:180:5:00:00:00:00
+:1:Discoteca A:120:5:00:00:00:00
+:1:Discoteca B:110:5:00:00:00:00
+
+:13:3:Veneza
+:2:Praca de Sao Marcos:0:00:00:00:00::2
+:2:Ponte de Rialto:0:00:00:00:00::2
+:3:Museu dell Accademia:0:06:00:22:00
+
+:14:3:Sevilha
+:2:Parque Aquatico A:100:07:30:22:00::1:0:false:Escorregas e Praias Artificiais::1:6
+:2:Parque Aquatico B:100:08:00:21:30::1:25:true:Montanhas Russas e Circo::1:4
+:2:Parque Aquatico C:135:08:30:22:00::1:0:false:Montes de Diversoes::1:6
+
+:15:3:Braga
+:2:Parque Diversoes A:100:07:50:22:15::1:20:true:Teatros e Circos::2
+:2:Parque Diversoes B:120:08:00:21:45::1:100:true:Cinema 4D::2
+:1:Cafe A:150:3:09:00:22:00
+
+:16:3:Setubal
+:3:Museu A:45:08:00:20:00
+:3:Museu B:60:09:00:21:00
+:3:Museu C:65:08:45:22:00
+
+:17:4:Aveiro
+:1:Discoteca A:70:5:21:00:06:00
+:1:Cafe B:30:5:12:00:02:00
+:2:Parque Diversoes A:60:09:00:22:00::1:0:false:Circo::2
+:2:Parque Botanico:0:00:00:00:00::2
+
+:18:3:Viseu
+:4:Universidade A:Engenharia Informatica:08:00:19:00
+:4:Universidade Catolica:Engenharia dos Computadores:09:00:18:30
+:1:Cafe A:0:5:11:00:05:00
+
+:19:4:Oslo
+:2:Parque Natural A:0:00:00:00:00::2
+:2:Parque Natural B:0:00:00:00:00::2
+:4:Universidade A:Engenharia Informatica:08:00:20:00
+:4:Universidade B:Programacao:08:30:20:00
+
+:20:3:Miami
+:1:Discoteca A:0:5:20:00:07:00
+:1:Discoteca B:50:5:22:00:08:00
+:2:Parque Diversoes A:100:08:00:23:00::1:10:true:Espetaculo com animais::1:5
